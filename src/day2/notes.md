@@ -1,13 +1,13 @@
 
-<h3>What exactly is Reactjs?<h3/>
+<h6>What exactly is Reactjs?<h6/>
 
 <p>Reactjs is a JavaScript library that supports both front-end and server. Furthermore, it can be used to create user interfaces for mobile apps and websites.<p/>
 
-<h3>what Exactly is react Native<h3/>
+<h6>what Exactly is react Native<h6/>
 
 React Native is a cross-platform mobile framework that uses Reactjs for building apps and websites. React Native compiles to native app components enables the programmer to build mobile applications that can run on different platforms such as Windows, Android, iOS in JavaScript.
 
-<h2>What are the main differences between Reactjs and React Native?<h2/>
+<h6>What are the main differences between Reactjs and React Native?<h6/>
 
 1. Reactjs can be described as a base derivative of React DOM, for the web platform while React Native is a base derivative in itself, which means that the syntax and workflow remain the same, but components alter.
 
