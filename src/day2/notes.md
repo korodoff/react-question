@@ -135,4 +135,4 @@ Element variables are similar to the approach to extract the conditional renderi
 
 **Using Immediately Invoked Function Expressions (IIFEs)
 
-Earlier sections mentioned that JSX limitations make it unable to execute every type of JavaScript code. It is possible to bypass these limitations with Immediately Invoked Function Expressions (IFFEs). IFFEs is a JavaScript function that runs as soon as it is defined:
+Earlier sections mentioned that JSX limitations make it unable to execute every type of JavaScript code. It is possible to bypass these limitations with Immediately Invoked Function Expressions (IFFEs). IFFEs is a JavaScript function that runs as soon as it is defined
