@@ -1,0 +1,51 @@
+
+<h1>Difference between Axios and fetch<h1/>
+<p>The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses. It also provides a global fetch() method that provides an easy, logical way to fetch resources asynchronously across the network.
+
+The fetch() method takes one mandatory argument—the path to the resource you want to fetch—and returns a Promise that resolves with an object of the built-in Response class as soon as the server responds with headers.<p/>
+Once a Response is retrieved, the returned object contains the following properties:
+
+<p>response.body: A simple getter exposing a ReadableStream of the body contents
+response.bodyUsed: Stores a Boolean that declares whether the body has been used in a response yet
+response.headers: The headers object associated with the response
+response.ok: A Boolean indicating whether the response was successful or not
+response.redirected: Indicates whether or not the response is the result of a redirect
+response.status: The status code of the response
+response.statusText: The status message corresponding to the status code
+response.type: The type of the response
+response.url: The URL of the response<p/>
+
+---- Axios:- 
+- Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser .
+- It supports the Promise API that is native to JS ES6. - It can be used intercept HTTP requests and responses and enables client-side protection against XSRF. 
+- It also has the ability to cancel requests. 
+- axios.get('url')
+  .then((response) => {
+ 
+    // Code for handling the response
+  })
+  .catch((error) => {
+ 
+    // Code for handling the error
+  })
+- Axios has url in request object.
+- Axios is a stand-alone third party package that can be easily installed.
+- Axios enjoys built-in XSRF protection.,fetch doesnt
+- Axios uses the data property.
+- Axios data contains the object.
+- Axios performs automatic transforms of JSON data.
+- Axios has wide browser support.
+
+
+2.What is UseState Hook ?(Implementation)
+
+- The useState() is a Hook that allows you to have state variables in functional components . 
+- Class components have state and lifecycle methods: class Message extends React. 
+- The  useState hook is a special function that takes the initial state as an argument and returns an array of two entries. 
+- Syntax: The first element is the initial state and the second one is a function that is used for updating the state.
+
+
+3.What is useEffect Hook ?(Implementation)
+
+- useEffect Hook is to eliminate the side-effects of using class-based components.
+- For example, tasks like updating the DOM, fetching data from API end-points, setting up subscriptions or timers, etc can be lead to unwarranted side-effects.
