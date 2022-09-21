@@ -16,7 +16,7 @@ This process increases the efficiency of the application.
 - DOM is an interface that allows scripts to update the content, style, and structure of the document. Virtual DOM is a node tree similar to Real DOM that lists elements, content, and attributes as objects and properties.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-2.What is SPA
+2.What is SPA(single page application)
 
 - Single-page Application
 
