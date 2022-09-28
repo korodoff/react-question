@@ -12,8 +12,13 @@ SEO stands for Search Engine Optimisation. SEO is the term used for the practice
 Search Engine Optimisation is used to increase three separate factors of your website, they are as follows.
 
 The Quality Of Traffic – This means ensuring the people who visit your website are genuinely interested in the products or service you offer. For example, if your prospective customer visits your website because they are looking for video games but you sell video creation tools you’re highly likely not to convert that visitor to a sale.
+
 The Quantity Of Traffic – Once you’ve made sure that the right people are visiting your website and finding you through the SERPS ( Search Engine Page Results) you are able to focus on increasing the traffic to your website.
+
+
+
 Organic Search Results – Organic Search Results can be defined as any traffic you receive from the SERPS that you didn’t have to pay directly for the advertising space for.
+
 SEO is about answering your customers questions before they ask them, it’s about understanding the words they’re searching with and what type of content your ideal customer likes to consume. Knowing your audience’s intent allows you to connect with quality prospective customers online who are searching for a solution to their problem.
 
 Q3 clean up in useEffect
